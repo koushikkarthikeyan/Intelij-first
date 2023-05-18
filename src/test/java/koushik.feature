@@ -1,3 +1,3 @@
 Feature: login
 
-  Scenario: 
+  Scenario: login scenario of facebook application
